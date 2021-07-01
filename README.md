@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annalenksjo! I'm a student at Technigo Frontend Bootcamp, and will be graduating in june 2021.
+- 👋 Hi, I’m @annalenksjo! I have just finished a fast-paced frontend bootcamp where I did 21 project in 24 weeks.
 - 👀 I’m interested in programming, people, environmental issues, health, Netflix!
-- 🌱 I’m currently learning React. Its fun most of the times!
+- 🌱 My tech-stack: HTML5, CSS, Javascript, React, Redux, Node.js
 - 📫 You can reach me at annalenksjo@gmail.com
