@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annalenksjo! I have just finished a fast-paced frontend bootcamp where I did 21 project in 24 weeks.
+- 👋 Hi, I’m @annalenksjo! I am a frontend developer at ATG. 
 - 👀 I’m interested in programming, people, environmental issues, health, Netflix!
 - 🌱 My tech-stack: HTML5, CSS, Javascript, React, Redux, Node.js
 - 📫 You can reach me at annalenksjo@gmail.com
