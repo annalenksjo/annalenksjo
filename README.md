@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @annalenksjo! I am a frontend developer at ATG. 
 - 👀 I’m interested in programming, people, environmental issues, health, Netflix!
-- 🌱 My tech-stack: HTML5, CSS, Javascript, React, Redux, Node.js
+- 🌱 My tech-stack: HTML5, CSS, Javascript, React, Redux, Node.js, Typescript
 - 📫 You can reach me at annalenksjo@gmail.com
